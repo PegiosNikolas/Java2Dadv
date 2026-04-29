@@ -1,0 +1,17 @@
+ROOM:Hallway
+Είσαι σε έναν διάδρομο.
+north:Kitchen,south:Library,west:Yard
+
+ROOM:Kitchen
+Μια παλιά κουζίνα.
+south:Hallway
+
+ROOM:Library
+Είσαι στην Βιβλιοθήκη.
+north:Kitchen
+
+ROOM:Yard
+you are outside
+east:Hallway
+
+
